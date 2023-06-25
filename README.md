@@ -1,2 +1,7 @@
 # Newletter-Signup-Page
-Developed a Newsletter Signup page which send the data entered to the mailchimp's server via API calls. Created the website using the standard login page of bootstrap which collects user's name and email. Tech used :- Express.js, Node.js, Mailchimp API, Javascript.
+![Screenshot (855)](https://github.com/sweety-12/Newletter-Signup-Page/assets/75718491/6a8106f3-6497-4a9d-ba86-5a44e1d1703e)
+![Screenshot (856)](https://github.com/sweety-12/Newletter-Signup-Page/assets/75718491/f2ada7fa-674c-4000-8c9d-27a4944d7b40)
+![Screenshot (857)](https://github.com/sweety-12/Newletter-Signup-Page/assets/75718491/f77a042e-03ee-4a95-a967-e4a4598a79c0)
+
+
+
